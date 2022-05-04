@@ -1,0 +1,7 @@
+x,tabuada,linha,linha <= x,coluna,coluna <= x
+5,-,0,true,1,true
+5,0,1,true,2,true
+5,1,2,true,3,true
+5,2,3,true,4,true
+5,3,4,true,5,true
+5,4,5,true,6,false
